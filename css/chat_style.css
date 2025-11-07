@@ -185,7 +185,7 @@ h1,
 
 /* Chat Window Toggle Styling */
 .chat-window-toggle {
-    width: 310px !important;
+    width: 350px !important;
     border-radius: 20px !important;
     background: linear-gradient(62deg, #085ECB 30.49%, #0CB7CA 96.31%) !important;
     justify-content: space-between !important;
@@ -207,8 +207,8 @@ h1,
     background: rgba(255, 255, 255, 0.2);
     border-radius: 40px;
     padding: 10px;
-    width: 24px;
-    height: 24px;
+    width: 40px;
+    height: 40px;
 }
 
 .chat-window-toggle.open {
@@ -230,8 +230,8 @@ h1,
     background: rgba(255, 255, 255, 0.2);
     border-radius: 40px;
     padding: 10px;
-    width: 24px;
-    height: 24px;
+    width: 40px;
+    height: 40px;
 }
 
 .chat-window-wrapper .chat-window-toggle:hover,
