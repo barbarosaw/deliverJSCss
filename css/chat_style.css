@@ -213,9 +213,10 @@ h1,
 
 .chat-window-toggle.open {
     position: absolute;
-    bottom: 600px;
+    bottom: 550px;
     right: 0px;
     border-radius: 20px 20px 0px 0px !important;
+	width: 100% !important;
 }
 
 .chat-window-toggle.open::before {
